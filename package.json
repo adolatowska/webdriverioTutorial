@@ -1,0 +1,29 @@
+{
+  "name": "webdriveriotutorial",
+  "version": "1.0.0",
+  "description": "WebdriverIO tutorial by Queen of Assertions",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^1.3.1",
+    "selenium-standalone": "^5.8.0",
+    "wdio-cucumber-framework": "^0.2.8",
+    "webdriverio": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adolatowska/webdriverioTutorial.git"
+  },
+  "keywords": [
+    "webdriverio"
+  ],
+  "author": "Anna Dolatowska <anna.dolatowska@queenofassertions.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolatowska/webdriverioTutorial/issues"
+  },
+  "homepage": "https://github.com/adolatowska/webdriverioTutorial#readme"
+}
